@@ -7,6 +7,6 @@ Data is linked to on the [Corpora-for-Lay-Summarisation Repository](https://gith
 
 ## Claims
 
-<img src="findings/original/Table_2.png" alt="Table 2" style="width: 600px;"/>
-<img src="findings/original/Figure_3.png" alt="Figure 3" style="width: 1000px;"/>
-<img src="findings/original/Figure_4.png" alt="Figure 4" style="width: 600px;"/>
+<img src="findings/original/Table_2.png" alt="Table 2" style="width: 400px;"/>
+<img src="findings/original/Figure_3.png" alt="Figure 3" style="width: 8000px;"/>
+<img src="findings/original/Figure_4.png" alt="Figure 4" style="width: 400px;"/>
