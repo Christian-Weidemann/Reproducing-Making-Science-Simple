@@ -19,3 +19,5 @@ Exerpts from the paper about the relevant results.
 
 
 <img src="findings/original/Figure_4.png" alt="Figure 4" style="width: 400px;"/>
+
+> "(...) lay summaries consistently contain more novel n-grams than abstracts across both datasets. However, the lay summaries of eLife (...) appear to be significantly more abstractive."
