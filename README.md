@@ -1,7 +1,7 @@
 # Reproducing-Making-Science-Simple
 We reproduce results from the paper "Making Science Simple: Corpora for the Lay Summarisation of Scientific Literature", published in EMNLP 2022 (link)[https://doi.org/10.18653/v1/2022.emnlp-main.724].
 
-Specifically, we reproduce Table 2, Figure 3 and Figure 4.
+Specifically, we reproduce table 2, figure 3 and figure 4. These results compare the PLOS and eLife datasets in terms of readability of abstracts and summaries (table 2), overlap between words and POS-classes between abstracts and summaries (figure 3) and abstractiveness of vocabulary between the two summary datasets (figure 4).
 
 ## Data
 Data is linked to on the [Corpora-for-Lay-Summarisation Repository](https://github.com/TGoldsack1/Corpora_for_Lay_Summarisation/tree/main) and includes the PLOS and eLife datasets.
