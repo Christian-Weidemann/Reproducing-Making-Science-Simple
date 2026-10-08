@@ -1,9 +1,12 @@
 # Reproducing-Making-Science-Simple
 We reproduce results from the paper "Making Science Simple: Corpora for the Lay Summarisation of Scientific Literature", published in EMNLP 2022 (link)[https://doi.org/10.18653/v1/2022.emnlp-main.724].
+
 Specifically, we reproduce Table 2, Figure 3 and Figure 4.
 
 ## Data
 Data is linked to on the [Corpora-for-Lay-Summarisation Repository](https://github.com/TGoldsack1/Corpora_for_Lay_Summarisation/tree/main) and includes the PLOS and eLife datasets.
+
+Extract the dataset folders into a 'data' folder ('main/data/plos' and 'main/data/elife') to use the project code.
 
 ## The authors' claims
 Exerpts from the paper about the relevant results.
@@ -15,7 +18,8 @@ Exerpts from the paper about the relevant results.
 
 <img src="findings/original/Figure_3.png" alt="Figure 3" style="width: 8000px;"/>
 
-> "Generally, we observe similar patterns for content words between datasets. Firstly, regardless of word type or number of abstract occurrences, we find that abstract content words are rarely shared with lay summaries (i.e., ‘shared’ % < ‘not shared’ % for all bars). This is indicative of a clear shift in content and/or vocabulary when it comes to the creation of a lay summary. For each dataset, we can also see that the vast majority of content words of all types, except verbs, occur in 10 or fewer abstracts (> 90% on average for both datasets), with most of these occurring within a single abstract. (...) The pattern exhibited by verbs differs significantly from that of other word types, as they typically occur in a greater number of abstracts (most commonly being present within 2-10). For content words of all types, we observe that the ratio of ‘shared’ to ‘not shared’ generally increases in line with the number of abstract occurrences."
+> "Generally, we observe similar patterns for content words between datasets. Firstly, regardless of word type or number of abstract occurrences, we find that abstract content words are rarely shared with lay summaries (i.e., ‘shared’ % < ‘not shared’ % for all bars). This is indicative of a clear shift in content and/or vocabulary when it comes to the creation of a lay summary. For each dataset, we can also see that the vast majority of content words of all types, except verbs, occur in 10 or fewer abstracts (> 90% on average for both datasets), with most of these occurring within a single abstract. (...) 
+> The pattern exhibited by verbs differs significantly from that of other word types, as they typically occur in a greater number of abstracts (most commonly being present within 2-10). For content words of all types, we observe that the ratio of ‘shared’ to ‘not shared’ generally increases in line with the number of abstract occurrences."
 
 
 <img src="findings/original/Figure_4.png" alt="Figure 4" style="width: 400px;"/>
