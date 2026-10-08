@@ -5,7 +5,7 @@ Specifically, we reproduce Table 2, Figure 3 and Figure 4.
 ## Data
 Data is linked to on the [Corpora-for-Lay-Summarisation Repository](https://github.com/TGoldsack1/Corpora_for_Lay_Summarisation/tree/main) and includes the PLOS and eLife datasets.
 
-## Claims
+## The authors' claims
 Exerpts from the paper about the relevant results.
 
 <img src="findings/original/Table_2.png" alt="Table 2" style="width: 400px;"/>
@@ -21,3 +21,5 @@ Exerpts from the paper about the relevant results.
 <img src="findings/original/Figure_4.png" alt="Figure 4" style="width: 400px;"/>
 
 > "(...) lay summaries consistently contain more novel n-grams than abstracts across both datasets. However, the lay summaries of eLife (...) appear to be significantly more abstractive."
+
+## Our findings
