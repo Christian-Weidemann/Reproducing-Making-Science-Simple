@@ -6,5 +6,7 @@ Specifically, we reproduce Table 2, Figure 3 and Figure 4.
 Data is linked to on the [Corpora-for-Lay-Summarisation Repository](https://github.com/TGoldsack1/Corpora_for_Lay_Summarisation/tree/main) and includes the PLOS and eLife datasets.
 
 ## Claims
-### Table 2
-![Table 2](findings/original/Table_2.png "Table 2")
+
+<img src="findings/original/Table_2.png" alt="Table 2" style="width: 200px;"/>
+<img src="findings/original/Figure_3.png" alt="Figure 3" style="width: 200px;"/>
+<img src="findings/original/Figure_4.png" alt="Figure 4" style="width: 200px;"/>
