@@ -7,4 +7,4 @@ Data is linked to on the [Corpora-for-Lay-Summarisation Repository](https://gith
 
 ## Claims
 ### Table 2
-![Table 2](Reproducing-Making-Science-Simple/findings/original/Table_2.png "Table 2")
+![Table 2](findings/original/Table_2.png "Table 2")
