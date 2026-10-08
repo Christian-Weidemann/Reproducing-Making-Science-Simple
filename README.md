@@ -8,8 +8,16 @@ Data is linked to on the [Corpora-for-Lay-Summarisation Repository](https://gith
 
 Extract the dataset folders into a 'data' folder ('main/data/plos' and 'main/data/elife') to use the project code.
 
-## The authors' claims
-Exerpts from the paper about the relevant results.
+## Reproducing findings
+
+<table>
+<tr>
+<th> ## The authors' claims
+Exerpts from the paper about the relevant results.  </th>
+<th> Our findings </th>
+</tr>
+<tr>
+<td>
 
 <img src="findings/original/Table_2.png" alt="Table 2" style="width: 400px;"/>
 
@@ -26,32 +34,10 @@ Exerpts from the paper about the relevant results.
 
 > "(...) lay summaries consistently contain more novel n-grams than abstracts across both datasets. However, the lay summaries of eLife (...) appear to be significantly more abstractive."
 
-## Our findings
-
-<table>
-<tr>
-<th> Good </th>
-<th> Bad </th>
-</tr>
-<tr>
-<td>
-
-```c++
-int foo() {
-    int result = 4;
-    return result;
-}
-```
-
 </td>
 <td>
 
-```c++
-int foo() { 
-    int x = 4;
-    return x;
-}
-```
+
 
 </td>
 </tr>
