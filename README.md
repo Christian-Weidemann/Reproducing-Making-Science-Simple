@@ -3,4 +3,4 @@ We reproduce results from the paper "Making Science Simple: Corpora for the Lay 
 Specifically, we reproduce Table 2, Figure 3 and Figure 4.
 
 ## Data
-Data is linked to on the (Corpora-for-Lay-Summarisation Repository)[https://github.com/TGoldsack1/Corpora_for_Lay_Summarisation/tree/main].
+Data is linked to on the [Corpora-for-Lay-Summarisation Repository](https://github.com/TGoldsack1/Corpora_for_Lay_Summarisation/tree/main).
