@@ -27,3 +27,32 @@ Exerpts from the paper about the relevant results.
 > "(...) lay summaries consistently contain more novel n-grams than abstracts across both datasets. However, the lay summaries of eLife (...) appear to be significantly more abstractive."
 
 ## Our findings
+
+<table>
+<tr>
+<th> Good </th>
+<th> Bad </th>
+</tr>
+<tr>
+<td>
+
+```c++
+int foo() {
+    int result = 4;
+    return result;
+}
+```
+
+</td>
+<td>
+
+```c++
+int foo() { 
+    int x = 4;
+    return x;
+}
+```
+
+</td>
+</tr>
+</table>
