@@ -1,2 +1,4 @@
-pandas
-matplotlib
+matplotlib==3.11.2
+scispacy==0.6.2
+en_core_sci_scibert @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_scibert-0.5.4.tar.gz#sha256=be4afaa2710d63206fafa7864001acbfab1225800bbab577f32765435e29b7f2
+pandas==2.3.3
