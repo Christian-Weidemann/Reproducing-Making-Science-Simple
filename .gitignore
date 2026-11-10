@@ -9,4 +9,10 @@ env.bak/
 venv.bak/
 
 # Data
+data/resources/
 data/
+resources/
+__pycache__/
+*.pyc
+*.parquet
+.ipynb_checkpoints/
